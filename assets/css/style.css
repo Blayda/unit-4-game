@@ -1,0 +1,67 @@
+body {
+  background: url("../images/universe.jpg");
+}
+
+.howTo {
+  background: purple;
+  width: 600px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+}
+
+.winner {
+  background: purple;
+  width: 600px;
+  height: 100px;
+  padding-left: 25px;
+}
+
+.score {
+  background: purple;
+  width: 600px;
+  height: 100px;
+  padding-left: 25px;
+  padding-top: 1px;
+  margin-top: 25px;
+}
+
+.guessing {
+  background: purple;
+  width: 600px;
+  height: 100px;
+  padding-left: 25px;
+}
+
+#red {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+#blue {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+#green {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+#yellow {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+#wrapper {
+  margin-top: 50px;
+}
